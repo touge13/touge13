@@ -4,4 +4,5 @@
 - **👨🏻‍🎓 student at St. Petersburg State University "Artificial Intelligence and Data Science"**
 - **🧑🏻‍💻 I love ml and programming**
 - **🏎 I love cars**
+- **❤️‍🔥 I love learning and becoming better!**
 - **🌏  I speak Russian and English**
