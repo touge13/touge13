@@ -5,5 +5,5 @@
 - **🧑🏻‍💻 I love ml and programming**
 - **🏎 I love cars**
 - **❤️‍🔥 I love learning and becoming better!**
-- **🌏  I speak Russian and English**
+- **🌏 I speak Russian and English**
 - **🤝 Glad to communicate and make new acquaintances :)**
