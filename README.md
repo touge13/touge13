@@ -1,6 +1,6 @@
 ## Hi there, i'm Misha! 👋
 
-- **⚡️ I'm 18 years old**
+- **⚡️ I'm 19 years old**
 - **👨🏻‍🎓 I'm a 2nd year student at St. Petersburg State University (SPbU) in the field of Artificial Intelligence and Data Science.**
 - **🧑🏻‍💻 I love ml and programming**
 - **🏎 I love cars**
